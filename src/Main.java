@@ -35,6 +35,31 @@ public class Main {
         System.out.println("The modulo using ints of " + intOperandA + " and " + intOperandB + " is " + intModulo);
 
 
+        int numberOfKids = 3;
+        boolean isItRaining = false;
+        double priceOfGas = 3.60;
+        int favoriteNumber = 7;
+        double shoeSize = 10.5;
+        String birthMonth = "February";
+        String fullName = "John Doe";
+
+        System.out.println("The number of kids in my family is: " + numberOfKids);
+
+        System.out.println("Is it raining? " + isItRaining);
+
+        System.out.println("The price of a gallon of gas is: $" + priceOfGas);
+
+        System.out.println("My favorite number is: " + favoriteNumber);
+
+        System.out.println("My shoe size is: " + shoeSize);
+
+        System.out.println("My birth month is: " + birthMonth);
+
+        System.out.println("My full name is: " + fullName);
+
+
+
+
 
 
     }
